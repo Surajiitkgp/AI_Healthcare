@@ -1,7 +1,5 @@
-# ML-MT-WebApp
-
-
-
+# Lab Name: Telemedicine Laboratory [MM61518]
+## Web app for Disease prediction Course Project: Prof. Manjunatha Mahadevappa   [Jan'22-Apr'22]
 
 
 
